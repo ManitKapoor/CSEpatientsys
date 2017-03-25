@@ -1,0 +1,35 @@
+[25-Mar-2017 04:27:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/ubuntu/workspace/includes/dbConn.php on line 17
+[25-Mar-2017 04:27:59 UTC] PHP Stack trace:
+[25-Mar-2017 04:27:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajaxFiles/doLogin.php:0
+[25-Mar-2017 04:27:59 UTC] PHP   2. include_once() /home/ubuntu/workspace/ajaxFiles/doLogin.php:3
+[25-Mar-2017 04:27:59 UTC] PHP   3. mysql_connect() /home/ubuntu/workspace/includes/dbConn.php:17
+[25-Mar-2017 04:31:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/ubuntu/workspace/includes/dbConn.php on line 17
+[25-Mar-2017 04:31:12 UTC] PHP Stack trace:
+[25-Mar-2017 04:31:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajaxFiles/doLogin.php:0
+[25-Mar-2017 04:31:12 UTC] PHP   2. include_once() /home/ubuntu/workspace/ajaxFiles/doLogin.php:3
+[25-Mar-2017 04:31:12 UTC] PHP   3. mysql_connect() /home/ubuntu/workspace/includes/dbConn.php:17
+[25-Mar-2017 04:31:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/ubuntu/workspace/includes/dbConn.php on line 17
+[25-Mar-2017 04:31:59 UTC] PHP Stack trace:
+[25-Mar-2017 04:31:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajaxFiles/doLogin.php:0
+[25-Mar-2017 04:31:59 UTC] PHP   2. include_once() /home/ubuntu/workspace/ajaxFiles/doLogin.php:3
+[25-Mar-2017 04:31:59 UTC] PHP   3. mysql_connect() /home/ubuntu/workspace/includes/dbConn.php:17
+[25-Mar-2017 04:38:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/ubuntu/workspace/includes/dbConn.php on line 17
+[25-Mar-2017 04:38:31 UTC] PHP Stack trace:
+[25-Mar-2017 04:38:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajaxFiles/doLogin.php:0
+[25-Mar-2017 04:38:31 UTC] PHP   2. include_once() /home/ubuntu/workspace/ajaxFiles/doLogin.php:3
+[25-Mar-2017 04:38:31 UTC] PHP   3. mysql_connect() /home/ubuntu/workspace/includes/dbConn.php:17
+[25-Mar-2017 04:38:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/ubuntu/workspace/includes/dbConn.php on line 17
+[25-Mar-2017 04:38:34 UTC] PHP Stack trace:
+[25-Mar-2017 04:38:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajaxFiles/doLogin.php:0
+[25-Mar-2017 04:38:34 UTC] PHP   2. include_once() /home/ubuntu/workspace/ajaxFiles/doLogin.php:3
+[25-Mar-2017 04:38:34 UTC] PHP   3. mysql_connect() /home/ubuntu/workspace/includes/dbConn.php:17
+[25-Mar-2017 04:40:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/ubuntu/workspace/includes/dbConn.php on line 17
+[25-Mar-2017 04:40:06 UTC] PHP Stack trace:
+[25-Mar-2017 04:40:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajaxFiles/doLogin.php:0
+[25-Mar-2017 04:40:06 UTC] PHP   2. include_once() /home/ubuntu/workspace/ajaxFiles/doLogin.php:3
+[25-Mar-2017 04:40:06 UTC] PHP   3. mysql_connect() /home/ubuntu/workspace/includes/dbConn.php:17
+[25-Mar-2017 05:46:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/ubuntu/workspace/includes/dbConn.php on line 17
+[25-Mar-2017 05:46:56 UTC] PHP Stack trace:
+[25-Mar-2017 05:46:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/ajaxFiles/doLogin.php:0
+[25-Mar-2017 05:46:56 UTC] PHP   2. include_once() /home/ubuntu/workspace/ajaxFiles/doLogin.php:3
+[25-Mar-2017 05:46:56 UTC] PHP   3. mysql_connect() /home/ubuntu/workspace/includes/dbConn.php:17
